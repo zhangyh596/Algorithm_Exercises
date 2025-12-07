@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\luogu\\luogu_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0BF5C9-C167-41C0-A707-5D80AF13D87A}|luogu_14\\luogu_14.vcxproj|D:\\code\\luogu\\luogu_14\\luogu_14\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C0BF5C9-C167-41C0-A707-5D80AF13D87A}|luogu_14\\luogu_14.vcxproj|solutionrelative:luogu_14\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\luogu\\luogu_14\\luogu_14\\test.c",
+              "RelativeDocumentMoniker": "luogu_14\\test.c",
+              "ToolTip": "D:\\code\\luogu\\luogu_14\\luogu_14\\test.c*",
+              "RelativeToolTip": "luogu_14\\test.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-05T14:52:46.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
