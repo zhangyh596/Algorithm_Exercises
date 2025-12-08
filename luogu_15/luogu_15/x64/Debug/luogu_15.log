@@ -1,0 +1,31 @@
+﻿  test.c
+D:\code\luogu\luogu_15\luogu_15\test.c(23,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(42,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(82,11): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(82,11): warning C4024: “strncpy”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(84,10): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(84,10): warning C4024: “strcpy”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(85,11): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(85,11): warning C4024: “reverse”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(85,31): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(85,31): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(85,41): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(86,11): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(86,11): warning C4024: “reverse”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(86,30): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(86,30): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(86,39): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(87,23): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(87,23): warning C4024: “remove_leading_zero”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(88,24): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\code\luogu\luogu_15\luogu_15\test.c(88,24): warning C4024: “remove_trailing_zero”: 形参和实参 1 的类型不同
+D:\code\luogu\luogu_15\luogu_15\test.c(89,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\code\luogu\luogu_15\luogu_15\test.c(89,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+D:\code\luogu\luogu_15\luogu_15\test.c(89,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\code\luogu\luogu_15\luogu_15\test.c(89,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 2 冲突
+D:\code\luogu\luogu_15\luogu_15\test.c(97,41): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(98,47): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(107,41): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(113,27): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\luogu\luogu_15\luogu_15\test.c(55,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  luogu_15.vcxproj -> D:\code\luogu\luogu_15\x64\Debug\luogu_15.exe
