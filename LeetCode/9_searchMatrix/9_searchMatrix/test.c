@@ -8,14 +8,14 @@ bool searchMatrix(int** matrix, int matrixSize, int* matrixColSize, int target) 
 	int mid1 = 0, mid2 = 0;
 	while (left1 < right1)
 	{
-		mid1 = (left1 + right1) / 2;
-		if (matrix[mid1][0] >= target)
+		mid1 = (left1 + right1 + 1) / 2;
+		if (matrix[mid1][0] <= target)
 		{
-			right1 = mid1;
+			left1 = mid1;
 		}
 		else
 		{
-			left1 = mid1 + 1;
+			right1 = mid1 - 1;
 		}
 	}
 
@@ -23,7 +23,7 @@ bool searchMatrix(int** matrix, int matrixSize, int* matrixColSize, int target) 
 	while (left2 < right2)
 	{
 		mid2 = (left2 + right2) / 2;
-		if (matrix[mid1][mid2] >= target)
+		if (matrix[left1][mid2] >= target)
 		{
 			right2 = mid2;
 		}
